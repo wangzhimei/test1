@@ -1,5 +1,5 @@
 package test1;
 
-public class Test {
+public class Test2 {
 
 }
